@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Babel preset used for rockectact",
   "main": "index.js",
+  "keywords": ["rocketact", "babel"],
   "dependencies": {
     "@babel/core": "^7.1.5",
     "@babel/plugin-proposal-class-properties": "^7.1.0",
